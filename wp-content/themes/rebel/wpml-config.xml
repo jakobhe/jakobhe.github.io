@@ -1,0 +1,20 @@
+<wpml-config>
+	<admin-texts>
+		<key name="mt_options">
+			<key name="breadcrumb_title_text" />
+			<key name="google_analytics" />
+			<key name="header_phone_text" />			
+			<key name="footer_text" />
+			<key name="footer_bottom_socials" />			
+			<key name="portfolio_related_title" />		
+		</key>
+	</admin-texts>
+	<custom-types>
+		<custom-type translate="1">portfolio</custom-type>
+		<custom-type translate="1">teammembers</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">portfolio-categories</taxonomy>
+		<taxonomy translate="1">teammembers-categories</taxonomy>
+	</taxonomies>
+</wpml-config>
