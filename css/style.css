@@ -74,6 +74,11 @@ h2 {
 	color: white;
 }
 
+p {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
 #countdown div span {
 	display:block;
 	font-size: 50px;
@@ -92,6 +97,8 @@ h2 {
 	font-size: 18px;
 	margin-top: 5px;
 	margin-bottom: 0px;
+    margin-left: 30px;
+    margin-right: 30px;
 }
 
 
@@ -107,6 +114,7 @@ h2 {
   width: 100%;
   left: 0;
   top: 0;
+    
 }
 
 .scene,
@@ -165,6 +173,8 @@ h2 {
 	position: absolute;
 	z-index: 2;
 	top: 10%;
+    margin-left: 30px;
+    margin-right: 30px;
 }
 
 .line {
@@ -405,7 +415,7 @@ h2 {
 
 @media all and (min-width: 321px) {
 	/* HERO */
-	h1 { font-size: 40px; line-height: 40px; }
+	h1 { font-size: 40px; line-height: 40px;}
     #countdown div { margin: 0 20px}
 	#countdown div span {font-size: 26px; line-height: 25px;}
 	.sub-title { font-size: ; line-height: ; margin-top: 40px; }
