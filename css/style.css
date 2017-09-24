@@ -74,11 +74,6 @@ h2 {
 	color: white;
 }
 
-p {
-    margin-left: 40px;
-    margin-right: 40px;
-}
-
 #countdown div span {
 	display:block;
 	font-size: 50px;
@@ -93,12 +88,15 @@ p {
     margin: 0 34px;
 }
 
+p {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
 .sub-title {
 	font-size: 18px;
 	margin-top: 5px;
 	margin-bottom: 0px;
-    margin-left: 30px;
-    margin-right: 30px;
 }
 
 
@@ -173,8 +171,6 @@ p {
 	position: absolute;
 	z-index: 2;
 	top: 10%;
-    margin-left: 30px;
-    margin-right: 30px;
 }
 
 .line {
