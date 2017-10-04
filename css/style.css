@@ -38,7 +38,7 @@ img {
 
 body {
 	background: #fff;
-	color: white;
+	color: #E46D27;
 	font-family: 'Roboto', sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-webkit-text-size-adjust: 100%;
@@ -62,7 +62,7 @@ h1 {
 	font-weight: 800;
 	line-height: 80px;
 	letter-spacing: -0.08em;
-	color: white; 
+	color: #446BD8; 
 }
 
 h2 {
@@ -71,7 +71,7 @@ h2 {
 	line-height: 1em;
 	letter-spacing: 0.2em;
 	text-transform: uppercase;
-	color: white;
+	color: #446BD8;
 }
 
 #countdown div span {
@@ -92,6 +92,7 @@ h2 {
 	font-size: 18px;
 	margin-top: 5px;
 	margin-bottom: 0px;
+    color: #446BD8; 
 }
 
 .sub-text {
@@ -147,7 +148,8 @@ h2 {
 
 /* Background */
 .background {
-  background: url(../images/background2.jpg) no-repeat 100% 100%;
+  background: url(../images/tduxbg2.png) no-repeat;
+    background-position: center;
   bottom: -20px;
   background-size: cover;
   position: absolute;
@@ -179,7 +181,7 @@ h2 {
 	margin: 0 auto;
 	width: 60px;
 	height: 1px;
-	background: #00d9ec;
+	background: #E46D27;
 	margin-top: 10px;
 }
 
